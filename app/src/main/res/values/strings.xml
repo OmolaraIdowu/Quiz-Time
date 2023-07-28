@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz Time</string>
+    <string name="welcome">Welcome!</string>
+    <string name="user_picture">User Picture</string>
+    <string name="message"><b><big><big>Play &amp; \nWin</big></big></b> \n\nTest your knowledge and have fun with our exciting quiz. Let\'s start the quiz!</string>
+    <string name="start">Start Quiz</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="quit_quiz">Quit Quiz</string>
+    <string name="question_indicator_text"><b><big>Question 0%d</big></b>/%d</string>
+    <string name="quiz_result">Quiz Result</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="your_score">Your Score</string>
+    <string name="result"><font color="#FF03DAC5">%d</font> / 30</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="share_results">Share Results</string>
+    <string name="cancel_button">Cancel Button</string>
+    <string name="score">Score: %d</string>
+    <string name="rules"><b><big>How to Play:</big></b>
+        \nRead each question carefully.
+        \nChoose the correct answer from the provided options.
+        \nTap the option to select your answer.
+        \nIf you\'re unsure, take a guess! You might get it right!</string>
+    <string name="quit_game">Quit Quiz?</string>
+    <string name="quit_confirmation">Are you sure you want to quit this game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="game_won_message">Congratulations</string>
+    <string name="game_over_message">Try Again!</string>
+    <string name="share_score_message">Hey! I scored %d points in the game. Can you beat it?</string>
+    <string name="share_score_title">Share your score</string>
+</resources>
