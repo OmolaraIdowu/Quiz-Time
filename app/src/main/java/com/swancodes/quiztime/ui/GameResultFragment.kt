@@ -35,12 +35,11 @@ class GameResultFragment : Fragment() {
 
         val score = args.score
         val totalMark = score * SCORE_INCREASE
-
+        val totalQuestions = MAX_NO_OF_QUESTIONS
         val scoreText = getString(R.string.result, totalMark)
 
         binding.scoreText.text = scoreText
 
-        val totalQuestions = MAX_NO_OF_QUESTIONS
         if (score == totalQuestions) {
             binding.congratulatoryText.text = getString(R.string.game_won_message)
             binding.resultImageView.setImageResource(R.drawable.gold_cup)
